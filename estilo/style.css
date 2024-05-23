@@ -1,0 +1,31 @@
+@charset "UTF-8";
+
+body {
+    background-color: #FF6354;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+div#container {
+    background-color: white;
+    width: 450px;
+    padding: 20px;
+    margin: auto;
+    border-radius: 5px;
+}
+
+input {
+    border: 1px solid #FF6354;
+    width: 430px;
+    padding: 5px;
+    border-radius: 4px;
+}
+
+#botao {
+    background-color: #FF6354;
+    color: white;
+    margin: auto;
+    width: 440px;
+    border-radius:  4px;
+}
+
